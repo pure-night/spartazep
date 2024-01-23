@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71edb72bbac15a24abd5377fbf3ea054, type: 3}
+  m_Name: Yeom_DefaultDialogueData
+  m_EditorClassIdentifier: 
+  characterName: "\uC5C4\uC608\uCC2C \uD29C\uD130\uB2D8"
+  dialogueScript:
+  - "\uBD80\uB974\uC168\uB098\uC694?"
+  - "\uBB34\uC2A8 \uC77C\uC774\uC2DC\uC8E0?"
